@@ -22,7 +22,7 @@ A scalable NLP text classification system leveraging Facebook's FastText library
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -283,17 +283,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Contact
-
-**Vinay Varshigan**
-
-- Email: sjvinay357@gmail.com
-- LinkedIn: [linkedin.com/in/vinaysj2003](https://linkedin.com/in/vinaysj2003)
-- GitHub: [@macrosensor2022](https://github.com/macrosensor2022)
-- Portfolio: [Coming Soon]
 
 ---
 
